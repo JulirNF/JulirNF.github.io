@@ -1,6 +1,6 @@
 body {
   background: rgb(125, 198, 205);
-  color: rgb(114, 82, 82);
+  color: rgb(0, 0, 0);
   padding: 10px;
   font-family: arial;
 }
@@ -13,8 +13,10 @@ body {
 nav {
   background: rgb(29, 175, 243);
   margin: 0 auto;
+  margin-bottom: 20px;
   display: flex;
   padding: 10px;
+  border-radius: 30px;
 }
 h1 {
   display: flex;
@@ -45,7 +47,8 @@ main {
   padding: 10px;
 }
 .sidebar-img {
-  width: 300px;
+  width: 350px;
+  border-radius: 30px;
 }
 .content {
   flex: 1;
