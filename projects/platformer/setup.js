@@ -97,4 +97,5 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  coin: { image: "https://cdn-icons-png.flaticon.com/512/408/408472.png"},
 };

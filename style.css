@@ -1,5 +1,5 @@
 body {
-  background: rgb(125, 198, 205);
+  background: rgb(195, 224, 226);
   color: rgb(0, 0, 0);
   padding: 10px;
   font-family: arial;
@@ -11,7 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-  background: rgb(29, 175, 243);
+  background: rgb(74, 188, 230);
   margin: 0 auto;
   margin-bottom: 20px;
   display: flex;
@@ -58,7 +58,7 @@ main {
 
 /* portfolio styles */
 #interests {
-  border: 4px rgb(28, 228, 228) ridge;
+  border: 4px rgb(41, 53, 53) ridge;
   padding: 8px;
 }
 h2,
@@ -82,7 +82,7 @@ h3 {
 }
 
 #portfolio li:hover {
-  background: #eee;
+  background: #80ece7;
 }
 
 #portfolio a {
