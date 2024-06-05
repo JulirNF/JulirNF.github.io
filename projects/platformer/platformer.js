@@ -66,6 +66,14 @@ $(function () {
     createPlatform(800,400,5,200)
     createPlatform(900,100,100,10)
     createPlatform(500,100,5,300)
+    createPlatform(1200,300,100,10)
+    createPlatform(1200,500,100,10)
+    createPlatform(200,500,100,10)
+    createPlatform(200,300,100,10)
+
+
+
+
     
 
 
